@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmbreenAbroA](https://github.com/AmbreenAbroA)
+- 👨‍💻 All of my projects are available at [https://github.com/AmbreenAbroA](https://github.com/AmbreenAbro)
 
 - 💬 Ask me about **web Development**
 
